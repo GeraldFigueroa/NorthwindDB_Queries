@@ -1,6 +1,6 @@
 # NorthwindDB_Queries
 
-@autor gerald.figueroa@unah.hn
+@author gerald.figueroa@unah.hn
 @date 2022/03/21
 
 Tarea #3 de la unidad 2 de la clase Base de Datos I
